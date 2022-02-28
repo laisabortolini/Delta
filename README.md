@@ -1,6 +1,6 @@
 # Engenharia-de-Software-II
 
-## Projeto
+## Projeto: Delta
 
 ### Marketplace de lojas voltadas a Itens Personalizados.
 
