@@ -14,3 +14,10 @@ Este projeto trata-se de um marketplace no qual as lojas podem oferecer produtos
 * Igor Ramos Lemes
 * Laisa Eduarda Bortolini Braz
 
+## Tecnologias
+
+Backend: Node.JS/Express.js
+Frontend: React / Next.js, Bootstrap
+DB: Postgre
+Infra: Heroku
+Testes: Selenium
