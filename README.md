@@ -16,8 +16,8 @@ Este projeto trata-se de um marketplace no qual as lojas podem oferecer produtos
 
 ## Tecnologias
 
-Backend: Node.JS/Express.js
-Frontend: React / Next.js, Bootstrap
-DB: Postgre
-Infra: Heroku
-Testes: Selenium
+Backend: Node.JS/Express.js  
+Frontend: React / Next.js, Bootstrap  
+DB: Postgre  
+Infra: Heroku  
+Testes: Selenium  
