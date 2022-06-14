@@ -29,3 +29,7 @@ https://lucid.app/lucidchart/cd262f4a-c3ab-4333-9145-01e21a55bd32/edit?beaconFlo
 ## Diagrama de Classes
 
 https://lucid.app/lucidchart/08d604f3-14aa-4cd8-bfe6-ebb888847a54/edit?view_items=keNiszdihraP&invitationId=inv_8932eb90-b4ab-452d-a119-4303e0bbb2a3
+
+## Protótipo Figma
+
+https://www.figma.com/file/ZCssXmyy3OdDvSQhuy5pb3/Delta?node-id=0%3A1
