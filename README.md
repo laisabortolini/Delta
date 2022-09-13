@@ -13,6 +13,7 @@ Este projeto trata-se de um marketplace no qual as lojas podem oferecer produtos
 * Guilherme Gomes Duarte
 * Igor Ramos Lemes
 * Laisa Eduarda Bortolini Braz
+* Mateus Junio Andrade
 
 ## Tecnologias
 
