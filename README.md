@@ -34,3 +34,7 @@ https://lucid.app/lucidchart/08d604f3-14aa-4cd8-bfe6-ebb888847a54/edit?view_item
 ## Protótipo Figma
 
 https://www.figma.com/file/ZCssXmyy3OdDvSQhuy5pb3/Delta?node-id=0%3A1
+
+## Documentação
+
+https://docs.google.com/document/d/1G7PWd5iGo0HsTDWns6hmf7sQwDjISv1p6LV5QyP8A6M/edit?usp=sharing
