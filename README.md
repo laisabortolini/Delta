@@ -1,4 +1,4 @@
-# Engenharia-de-Software-II
+# Projeto Integrador - Engenharia de Software
 
 ## Projeto: Delta
 
