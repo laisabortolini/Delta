@@ -8,10 +8,9 @@ Este projeto trata-se de um marketplace no qual as lojas podem oferecer produtos
 
 ## Participantes
 
-* Henrique Jacquier Modesto Euclides
-* José de Oliveira Neto
 * Guilherme Gomes Duarte
 * Igor Ramos Lemes
+* José de Oliveira Neto
 * Laisa Eduarda Bortolini Braz
 * Mateus Junio da Silva Miranda
 
