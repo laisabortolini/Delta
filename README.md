@@ -4,7 +4,7 @@
 
 ### Marketplace de lojas voltadas a Itens Personalizados.
 
-Este projeto trata-se de um marketplace no qual as lojas podem oferecer produtos prontos (produto vitrine) e/ou produtos personalizados. Nos casos dos produtos personalizados, pode haver várias opções pré cadastradas pela loja, assim como a loja pode combinar diretamente com o cliente o tipo de produto e preço cobrado. Após a negociação a plataforma também permitirá o desenvolvimento do pedido com comunicação entre o cliente e a loja, possibilitando troca de imagens e vídeos para assegurar o bom andamento do pedido. Fora esta especificação do projeto, ele terá as mesmas funcionalidades de um marketplace padrão.
+Este projeto trata-se de um marketplace que apresenta opções pré-cadastradas, com a intenção de realizar a conexão entre cliente e vendedor, a fim de que o produto seja personalizado da maneira desejada e o valor combinado entre ambos, onde há um formulário específico para tal função. Após o envio do formulário, o fornecedor será notificado sobre as especificações que o cliente inseriu e pode realizar a devolutiva do mesmo. Ao receber de volta o formulário, o cliente poderá aceitar o mesmo e concluir a compra. Fora esta especificação do projeto, ele terá as mesmas funcionalidades de um marketplace padrão.
 
 ## Participantes
 
